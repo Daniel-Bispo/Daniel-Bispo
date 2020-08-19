@@ -2,4 +2,4 @@
 
 *"Change is the essential process of all existence." - Mr. Spock*
 
-I'm currently working on being JavaScript full stack expert.
+I'm currently working on being a full stack expert.
